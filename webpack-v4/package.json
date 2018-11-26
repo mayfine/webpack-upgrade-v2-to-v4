@@ -2,7 +2,7 @@
   "name": "webpack-v4",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "dev-meifan <v_mpanmei@tencent.com>",
+  "author": "dev-meifan",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
